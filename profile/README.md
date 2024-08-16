@@ -66,7 +66,7 @@
 - [HEARUS-SPRING-BACKEND](https://github.com/TEAM-Hearus/HEARUS-SPRING-BACKEND): Spring Boot 기반 API, Socket 서버
 - [HEARUS-AI-SERVING](https://github.com/TEAM-Hearus/HEARUS-AI-SERVING): FastAPI 기반 AI 모델 서빙
 
-각 Repository에는 상세한 설정, 실행 방법, 그리고 기여 가이드라인이 포함되어 있습니다.
+각 Repository에는 상세한 설정, 실행 방법이 포함되어 있습니다.
 
 ## 🚀 시작하기
 
