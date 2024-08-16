@@ -1,10 +1,14 @@
 # Contributing to Hearus
 
-Hearus 프로젝트에 관심을 가져주셔서 감사합니다! 이 문서는 프로젝트에 기여하는 방법에 대한 가이드라인을 제공합니다.
+Hearus 프로젝트에 관심을 가져주셔서 감사합니다!
+</br>
+이 문서는 프로젝트에 기여하는 방법에 대한 가이드라인을 제공합니다.
 
 ## 행동 강령
 
-본 프로젝트는 [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)를 채택하고 있습니다. 프로젝트에 참여함으로써 이 행동 강령을 준수할 것을 동의하는 것으로 간주됩니다.
+본 프로젝트는 [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)를 채택하고 있습니다.
+</br>
+프로젝트에 참여함으로써 이 행동 강령을 준수할 것을 동의하는 것으로 간주됩니다.
 
 ## 기여 프로세스
 
