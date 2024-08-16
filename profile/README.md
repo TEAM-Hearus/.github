@@ -1,4 +1,4 @@
-# Hearus (히어러스)
+# Hearus
 
 <img width="1144" alt="image" src="https://github.com/user-attachments/assets/34d51edf-05d5-4199-9373-547510c51540">
 
