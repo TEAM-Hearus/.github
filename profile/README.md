@@ -61,7 +61,7 @@
 
 - [HEARUS-REACT-FRONTEND](https://github.com/TEAM-Hearus/HEARUS-REACT-FRONTEND): React 기반 웹 애플리케이션
 - [HEARUS-SPRING-BACKEND](https://github.com/TEAM-Hearus/HEARUS-SPRING-BACKEND): Spring Boot 기반 API 서버
-- [AHEARUS-AI-SERVING](https://github.com/TEAM-Hearus/HEARUS-AI-SERVING): FastAPI 기반 AI 모델 서빙
+- [HEARUS-AI-SERVING](https://github.com/TEAM-Hearus/HEARUS-AI-SERVING): FastAPI 기반 AI 모델 서빙
 
 각 Repository에는 상세한 설정, 실행 방법, 그리고 기여 가이드라인이 포함되어 있습니다.
 
@@ -91,10 +91,17 @@ Hearus의 발전에 기여해 주셔서 감사합니다! 우리는 모든 형태
 
 ## 📊 프로젝트 현황
 
-![GitHub stars](https://img.shields.io/github/stars/TEAM-Hearus/hearus?style=social)
-![GitHub forks](https://img.shields.io/github/forks/TEAM-Hearus/hearus?style=social)
-![GitHub issues](https://img.shields.io/github/issues/TEAM-Hearus/hearus)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/TEAM-Hearus/hearus)
+![GitHub stars](https://img.shields.io/github/stars/TEAM-Hearus/HEARUS-REACT-FRONTEND?style=social)
+![GitHub forks](https://img.shields.io/github/forks/TEAM-Hearus/HEARUS-REACT-FRONTEND?style=social)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/TEAM-Hearus/HEARUS-REACT-FRONTEND)
+</br>
+![GitHub stars](https://img.shields.io/github/stars/TEAM-Hearus/HEARUS-SPRING-BACKEND?style=social)
+![GitHub forks](https://img.shields.io/github/forks/TEAM-Hearus/HEARUS-SPRING-BACKEND?style=social)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/TEAM-Hearus/HEARUS-SPRING-BACKEND)
+</br>
+![GitHub stars](https://img.shields.io/github/stars/TEAM-Hearus/HEARUS-AI-SERVING?style=social)
+![GitHub forks](https://img.shields.io/github/forks/TEAM-Hearus/HEARUS-AI-SERVING?style=social)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/TEAM-Hearus/HEARUS-AI-SERVING)
 
 ## 📞 연락처
 
