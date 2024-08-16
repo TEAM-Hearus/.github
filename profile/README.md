@@ -78,7 +78,9 @@
 
 ## 🤝 기여하기
 
-Hearus의 발전에 기여해 주셔서 감사합니다! 우리는 모든 형태의 기여를 환영합니다.
+Hearus의 발전에 기여해 주셔서 감사합니다!
+</br>
+우리는 모든 형태의 기여를 환영합니다.
 
 1. 이슈 생성: 버그 리포트, 기능 제안, 또는 질문
 2. 풀 리퀘스트: 코드 개선, 문서화, 또는 새로운 기능 구현
@@ -89,7 +91,9 @@ Hearus의 발전에 기여해 주셔서 감사합니다! 우리는 모든 형태
 
 ## 📄 라이선스
 
-이 프로젝트는 MIT 라이선스 하에 배포됩니다. 이는 여러분이 이 소프트웨어를 자유롭게 사용, 수정, 배포할 수 있음을 의미합니다. 자세한 내용은 [LICENSE](https://github.com/TEAM-Hearus/.github/blob/main/LICENSE) 파일을 참조하세요.
+이 프로젝트는 MIT 라이선스 하에 배포됩니다. 
+</br>
+자세한 내용은 [LICENSE](https://github.com/TEAM-Hearus/.github/blob/main/LICENSE) 파일을 참조하세요.
 
 <!--
 ## 📊 프로젝트 현황
@@ -123,7 +127,7 @@ Hearus의 발전에 기여해 주셔서 감사합니다! 우리는 모든 형태
 - 🌐 [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) - 실시간 양방향 통신
 - 🔌 [Socket.IO](https://socket.io/) - 실시간 이벤트 기반 통신
 
-그리고 무엇보다 이 프로젝트에 관심을 가져주시고 지원해 주신 모든 분들께 깊은 감사를 드립니다.
+그리고 무엇보다 Hearus에 관심을 가져주시고 지원해 주신 모든 분들께 깊은 감사를 드립니다.
 
 </br>
 
