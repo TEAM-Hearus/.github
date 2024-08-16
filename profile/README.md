@@ -1,7 +1,9 @@
 # Hearus
 
 <img width="1144" alt="image" src="https://github.com/user-attachments/assets/34d51edf-05d5-4199-9373-547510c51540">
+
 </br>
+
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
@@ -83,11 +85,11 @@ Hearus의 발전에 기여해 주셔서 감사합니다! 우리는 모든 형태
 3. 코드 리뷰: 다른 기여자의 PR을 리뷰하고 피드백 제공
 4. 문서화: README, 위키, 또는 코드 주석 개선
 
-자세한 기여 가이드라인은 [CONTRIBUTING.md](CONTRIBUTING.md)를 참조해 주세요.
+자세한 기여 가이드라인은 [CONTRIBUTING.md](https://github.com/TEAM-Hearus/.github/blob/main/CONTRIBUTING.md)를 참조해 주세요.
 
 ## 📄 라이선스
 
-이 프로젝트는 MIT 라이선스 하에 배포됩니다. 이는 여러분이 이 소프트웨어를 자유롭게 사용, 수정, 배포할 수 있음을 의미합니다. 자세한 내용은 [LICENSE](LICENSE) 파일을 참조하세요.
+이 프로젝트는 MIT 라이선스 하에 배포됩니다. 이는 여러분이 이 소프트웨어를 자유롭게 사용, 수정, 배포할 수 있음을 의미합니다. 자세한 내용은 [LICENSE](https://github.com/TEAM-Hearus/.github/blob/main/LICENSE) 파일을 참조하세요.
 
 <!--
 ## 📊 프로젝트 현황
