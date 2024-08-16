@@ -89,6 +89,7 @@ Hearus의 발전에 기여해 주셔서 감사합니다! 우리는 모든 형태
 
 이 프로젝트는 MIT 라이선스 하에 배포됩니다. 이는 여러분이 이 소프트웨어를 자유롭게 사용, 수정, 배포할 수 있음을 의미합니다. 자세한 내용은 [LICENSE](LICENSE) 파일을 참조하세요.
 
+<!--
 ## 📊 프로젝트 현황
 
 ![GitHub stars](https://img.shields.io/github/stars/TEAM-Hearus/HEARUS-REACT-FRONTEND?style=social)
@@ -103,22 +104,30 @@ Hearus의 발전에 기여해 주셔서 감사합니다! 우리는 모든 형태
 ![GitHub forks](https://img.shields.io/github/forks/TEAM-Hearus/HEARUS-AI-SERVING?style=social)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/TEAM-Hearus/HEARUS-AI-SERVING)
 
+-->
+
 ## 📞 연락처
 
 문의사항이나 제안이 있으시면 [issues](https://github.com/TEAM-Hearus/hearus/issues)에 남겨주세요. 또한, 다음 채널을 통해 우리 팀과 소통할 수 있습니다:
 
-- 이메일: contact@hearus.org
+- 대표자 이메일: judemin2087@naver.com
 
 ## 🙏 감사의 말
 
 이 프로젝트는 다음과 같은 오픈소스 프로젝트들의 도움을 받아 제작되었습니다:
 
-- [React](https://reactjs.org/)
-- [Spring Boot](https://spring.io/projects/spring-boot)
-- [FastAPI](https://fastapi.tiangolo.com/)
-- [TensorFlow](https://www.tensorflow.org/)
+- 🔵 [React](https://reactjs.org/) - 사용자 인터페이스 구축
+- 🍃 [Spring Boot](https://spring.io/projects/spring-boot) - 백엔드 서버 개발
+- ⚡ [FastAPI](https://fastapi.tiangolo.com/) - AI 모델 서빙
+- 🧠 [TensorFlow](https://www.tensorflow.org/) - 머신러닝 모델 개발 및 훈련
+- 🔥 [PyTorch](https://pytorch.org/) - 딥러닝 모델 개발 및 훈련
+- 🎬 [FFmpeg](https://ffmpeg.org/) - 멀티미디어 처리
+- 🗣️ [Whisper](https://github.com/openai/whisper) - 음성 인식 모델
+- 🦙 [Ollama](https://ollama.ai/) - 로컬 LLM 실행 및 관리
 
 그리고 무엇보다 이 프로젝트에 관심을 가져주시고 지원해 주신 모든 분들께 깊은 감사를 드립니다.
+
+</br>
 
 ---
 
