@@ -1,7 +1,7 @@
 # Hearus
 
 <img width="1144" alt="image" src="https://github.com/user-attachments/assets/34d51edf-05d5-4199-9373-547510c51540">
-
+</br>
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
@@ -20,15 +20,15 @@
 - 학습 효율성 향상 및 복습 시간 단축
 
 ### 3. AI 맞춤형 문제 생성
-- 변환된 텍스트를 기반으로 llama3 모델이 자동으로 학습 문제 생성
+- 변환된 텍스트에 기반하여 llama3 모델이 자동으로 학습 문제 생성
 - 객관식, 주관식, 단답형 등 다양한 문제 유형 지원
-- 난이도 및 문제 수 조절 기능
+- 문제 제공을 통해 장애 학우들에게 효과적인 학습 환경 조성
 
 ### 4. 시간표 형식의 스크립트 관리
 - 변환된 강의 스크립트를 시간표 형식으로 직관적으로 관리
 - 강의별, 날짜별 쉬운 검색 및 접근 기능
 
-### 5. 접근성 강화 UI/UX
+### 5. 장애 학우 접근성 강화 UI/UX
 - 장애인을 위한 UI/UX 가이드라인을 준수한 인터페이스 설계
 - 직관적인 내비게이션 및 명확한 아이콘 사용으로 사용성 개선
 - 스크린 리더 호환성 및 키보드 네비게이션 지원
@@ -37,7 +37,7 @@
 ![image](https://github.com/user-attachments/assets/25b93d80-f06d-4486-8da0-6724bc4b7d32)
 
 ### Frontend: React
-- 최신 React 훅스 및 상태 관리 라이브러리 활용
+- 최신 React Hooks 및 상태 관리 라이브러리 활용
 - 반응형 디자인으로 다양한 디바이스 지원
 - 웹 접근성 표준 (WCAG 2.1) 준수
 
@@ -45,22 +45,23 @@
 - Spring Boot 기반의 확장 가능한 아키텍처
 - RESTful API 설계 및 구현
 - 보안 및 인증 시스템 통합
+- 실시간 음성인식을 위한 WebSocket, Socketio 기반 서버 구축
 
 ### AI Serving: FastAPI
 - 고성능 비동기 처리를 위한 FastAPI 프레임워크 사용
 - 실시간 음성 인식 및 자연어 처리 모델 서빙
-- 스케일러블한 AI 추론 서비스 구축
+- API 기반 LLM 및 AI Model 서빙 LangChain 구축
 
 ### Infrastructure: AWS
 - 고가용성 및 확장성을 위한 클라우드 네이티브 아키텍처
 - 컨테이너화된 마이크로서비스 배포 (ECS, EBS, Spot Instance)
-- 서버리스 컴퓨팅 활용 (Lambda, Step Function)
+- 서버리스 컴퓨팅 활용 (Lambda, Step Function, EventBridge)
 - GPT API가 아닌 자체 AI Serving 서버 구현 및 인스턴스 구축
 
 ## 📁 Repository 구조
 
 - [HEARUS-REACT-FRONTEND](https://github.com/TEAM-Hearus/HEARUS-REACT-FRONTEND): React 기반 웹 애플리케이션
-- [HEARUS-SPRING-BACKEND](https://github.com/TEAM-Hearus/HEARUS-SPRING-BACKEND): Spring Boot 기반 API 서버
+- [HEARUS-SPRING-BACKEND](https://github.com/TEAM-Hearus/HEARUS-SPRING-BACKEND): Spring Boot 기반 API, Socket 서버
 - [HEARUS-AI-SERVING](https://github.com/TEAM-Hearus/HEARUS-AI-SERVING): FastAPI 기반 AI 모델 서빙
 
 각 Repository에는 상세한 설정, 실행 방법, 그리고 기여 가이드라인이 포함되어 있습니다.
@@ -69,7 +70,6 @@
 
 1. 각 Repository를 클론합니다:
 2. 각 README의 지침에 따라 개발 환경을 설정합니다.
-
 3. 전체 시스템을 로컬에서 실행하거나 AWS 환경에 배포합니다.
 
 자세한 설정 및 배포 방법은 각 Repository의 README를 참조해 주세요.
@@ -106,12 +106,6 @@ Hearus의 발전에 기여해 주셔서 감사합니다! 우리는 모든 형태
 
 -->
 
-## 📞 연락처
-
-문의사항이나 제안이 있으시면 [issues](https://github.com/TEAM-Hearus/hearus/issues)에 남겨주세요. 또한, 다음 채널을 통해 우리 팀과 소통할 수 있습니다:
-
-- 대표자 이메일: judemin2087@naver.com
-
 ## 🙏 감사의 말
 
 이 프로젝트는 다음과 같은 오픈소스 프로젝트들의 도움을 받아 제작되었습니다:
@@ -124,6 +118,8 @@ Hearus의 발전에 기여해 주셔서 감사합니다! 우리는 모든 형태
 - 🎬 [FFmpeg](https://ffmpeg.org/) - 멀티미디어 처리
 - 🗣️ [Whisper](https://github.com/openai/whisper) - 음성 인식 모델
 - 🦙 [Ollama](https://ollama.ai/) - 로컬 LLM 실행 및 관리
+- 🌐 [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) - 실시간 양방향 통신
+- 🔌 [Socket.IO](https://socket.io/) - 실시간 이벤트 기반 통신
 
 그리고 무엇보다 이 프로젝트에 관심을 가져주시고 지원해 주신 모든 분들께 깊은 감사를 드립니다.
 
@@ -132,5 +128,5 @@ Hearus의 발전에 기여해 주셔서 감사합니다! 우리는 모든 형태
 ---
 
 <p align="center">
-모두의 들을 권리를 위하여 Team Hearus가 함께하겠습니다
+모두의 들을 권리를 위하여 Hearus가 함께하겠습니다
 </p>
