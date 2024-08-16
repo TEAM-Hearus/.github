@@ -119,8 +119,7 @@ Hearus의 발전에 기여해 주셔서 감사합니다!
 - 🔵 [React](https://reactjs.org/) - 사용자 인터페이스 구축
 - 🍃 [Spring Boot](https://spring.io/projects/spring-boot) - 백엔드 서버 개발
 - ⚡ [FastAPI](https://fastapi.tiangolo.com/) - AI 모델 서빙
-- 🧠 [TensorFlow](https://www.tensorflow.org/) - 머신러닝 모델 개발 및 훈련
-- 🔥 [PyTorch](https://pytorch.org/) - 딥러닝 모델 개발 및 훈련
+- 🔥 [PyTorch](https://pytorch.org/) - 딥러닝 모델 개발 및 훈련, Ollama 활용
 - 🎬 [FFmpeg](https://ffmpeg.org/) - 멀티미디어 처리
 - 🗣️ [Whisper](https://github.com/openai/whisper) - 음성 인식 모델
 - 🦙 [Ollama](https://ollama.ai/) - 로컬 LLM 실행 및 관리
