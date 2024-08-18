@@ -1,6 +1,5 @@
-# Hearus
+![image](https://github.com/user-attachments/assets/9be2766a-7aed-4c24-a1db-16652bb706fd)
 
-<img width="1144" alt="image" src="https://github.com/user-attachments/assets/34d51edf-05d5-4199-9373-547510c51540">
 
 </br>
 
