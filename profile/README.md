@@ -40,8 +40,8 @@
 
 ### Frontend: React
 - 최신 React Hooks 및 상태 관리 라이브러리 활용
-- 반응형 디자인으로 다양한 디바이스 지원
-- 웹 접근성 표준 (WCAG 2.1) 준수
+- 아토믹(atomic) 디자인 시스템 차용
+- 커스텀 404 Not Found 페이지 구현
 
 ### Backend: Spring
 - Spring Boot 기반의 확장 가능한 아키텍처
