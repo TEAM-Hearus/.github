@@ -133,5 +133,7 @@ Hearus의 발전에 기여해 주셔서 감사합니다!
 ---
 
 <p align="center">
-모두의 들을 권리를 위하여 Hearus가 함께하겠습니다
+  모두의 들을 권리를 위하여 Hearus가 함께하겠습니다
+  </br></br>
+  <img src="https://img.shields.io/badge/Hearus-FF603D?style=for-the-badge" alt="TEAM-Hearus">
 </p>
