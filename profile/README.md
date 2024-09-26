@@ -1,10 +1,6 @@
 ![image](https://github.com/user-attachments/assets/9be2766a-7aed-4c24-a1db-16652bb706fd)
 
-
 </br>
-
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 Hearus는 대학교 교내 청각장애 학우 대필지원 도우미 활동에서 느낀 문제들을 풀어내기 위해 시작되었습니다. </br>
 청각장애 학우들이 더 나은 환경에서 학습하고, 비장애 학우들과의 교육적 불평등을 해소할 수 있도록 하기 위해 </br>
@@ -87,12 +83,6 @@ Hearus의 발전에 기여해 주셔서 감사합니다!
 4. 문서화: README, 위키, 또는 코드 주석 개선
 
 자세한 기여 가이드라인은 [CONTRIBUTING.md](https://github.com/TEAM-Hearus/.github/blob/main/CONTRIBUTING.md)를 참조해 주세요.
-
-## 📄 라이선스
-
-이 프로젝트는 MIT 라이선스 하에 배포됩니다. 
-</br>
-자세한 내용은 [LICENSE](https://github.com/TEAM-Hearus/.github/blob/main/LICENSE) 파일을 참조하세요.
 
 <!--
 ## 📊 프로젝트 현황
