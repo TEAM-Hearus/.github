@@ -63,27 +63,6 @@ Hearus는 대학교 교내 청각장애 학우 대필지원 도우미 활동에�
 
 각 Repository에는 상세한 설정, 실행 방법이 포함되어 있습니다.
 
-## 🚀 시작하기
-
-1. 각 Repository를 클론합니다:
-2. 각 README의 지침에 따라 개발 환경을 설정합니다.
-3. 전체 시스템을 로컬에서 실행하거나 AWS 환경에 배포합니다.
-
-자세한 설정 및 배포 방법은 각 Repository의 README를 참조해 주세요.
-
-## 🤝 기여하기
-
-Hearus의 발전에 기여해 주셔서 감사합니다!
-</br>
-우리는 모든 형태의 기여를 환영합니다.
-
-1. 이슈 생성: 버그 리포트, 기능 제안, 또는 질문
-2. 풀 리퀘스트: 코드 개선, 문서화, 또는 새로운 기능 구현
-3. 코드 리뷰: 다른 기여자의 PR을 리뷰하고 피드백 제공
-4. 문서화: README, 위키, 또는 코드 주석 개선
-
-자세한 기여 가이드라인은 [CONTRIBUTING.md](https://github.com/TEAM-Hearus/.github/blob/main/CONTRIBUTING.md)를 참조해 주세요.
-
 <!--
 ## 📊 프로젝트 현황
 
@@ -100,25 +79,6 @@ Hearus의 발전에 기여해 주셔서 감사합니다!
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/TEAM-Hearus/HEARUS-AI-SERVING)
 
 -->
-
-## 🙏 감사의 말
-
-이 프로젝트는 다음과 같은 오픈소스 프로젝트들의 도움을 받아 제작되었습니다:
-
-- 🔵 [React](https://reactjs.org/) - 사용자 인터페이스 구축
-- 🍃 [Spring Boot](https://spring.io/projects/spring-boot) - 백엔드 서버 개발
-- ⚡ [FastAPI](https://fastapi.tiangolo.com/) - AI 모델 서빙
-- 🔥 [PyTorch](https://pytorch.org/) - 딥러닝 모델 개발 및 훈련, Ollama 활용
-- 🎬 [FFmpeg](https://ffmpeg.org/) - 멀티미디어 처리
-- 🗣️ [Whisper](https://github.com/openai/whisper) - 음성 인식 모델
-- 🦙 [Ollama](https://ollama.ai/) - 로컬 LLM 실행 및 관리
-- 🌐 [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) - 실시간 양방향 통신
-- 🔌 [Socket.IO](https://socket.io/) - 실시간 이벤트 기반 통신
-
-그리고 무엇보다 Hearus에 관심을 가져주시고 지원해 주신 모든 분들께 깊은 감사를 드립니다.
-
-</br>
-
 ---
 
 <p align="center">
