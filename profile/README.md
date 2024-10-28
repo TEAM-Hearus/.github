@@ -55,14 +55,6 @@ Hearus는 대학교 교내 청각장애 학우 대필지원 도우미 활동에�
 - 서버리스 컴퓨팅 활용 (Lambda, Step Function, EventBridge)
 - GPT API가 아닌 자체 AI Serving 서버 구현 및 인스턴스 구축
 
-## 📁 Repository 구조
-
-- [HEARUS-REACT-FRONTEND](https://github.com/TEAM-Hearus/HEARUS-REACT-FRONTEND): React 기반 웹 애플리케이션
-- [HEARUS-SPRING-BACKEND](https://github.com/TEAM-Hearus/HEARUS-SPRING-BACKEND): Spring Boot 기반 API, Socket 서버
-- [HEARUS-AI-SERVING](https://github.com/TEAM-Hearus/HEARUS-AI-SERVING): FastAPI 기반 AI 모델 서빙
-
-각 Repository에는 상세한 설정, 실행 방법이 포함되어 있습니다.
-
 <!--
 ## 📊 프로젝트 현황
 
